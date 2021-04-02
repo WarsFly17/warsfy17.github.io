@@ -27,7 +27,7 @@ nav .onglets{
 }
 nav .onglets a{
     text-decoration: none;
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
     margin-right: 10px;
     border-bottom: 1px solid #000;
     padding-bottom: 5px;
@@ -37,9 +37,9 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: url('https://pbs.twimg.com/profile_banners/1315750067832315904/1617032011/1500x500');
+    background: url('https://f.hellowork.com/blogdumoderateur/2020/05/formation-html5-1200x799.jpeg');
     background-size: cover;
-    color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
     padding: 40px;
 }
 header h1{
@@ -86,7 +86,7 @@ header button{
     flex:0 0 70%;
 }
 .main .content .card .right img{
-    height:300px;
+    height: 350px;
     width: 400px;
     margin-top: 5px;
 }
